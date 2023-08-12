@@ -1,0 +1,1 @@
+Debug/Teacher.cpp.o Debug/main.cpp.o Debug/Manager.cpp.o Debug/OrderFile.cpp.o Debug/Student.cpp.o   

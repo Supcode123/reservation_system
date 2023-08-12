@@ -1,0 +1,2 @@
+Day:Monday Time_Interval:Afternoon Stu_ID:1 Name:w Room_ID:1 Status:Reserved 
+Day:Friday Time_Interval:Afternoon Stu_ID:1 Name:w Room_ID:1 Status:Reserved 
